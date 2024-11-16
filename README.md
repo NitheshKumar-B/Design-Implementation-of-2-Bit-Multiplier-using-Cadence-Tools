@@ -1,5 +1,5 @@
-# Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 06     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+# Ex No: 06 Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
+     
 
 
 
